@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Anel 👩🏻‍🔬 Geneticist and Biotechnologist.
-👀 I'm interested in Genetics and Bioinformatics 
-💞️ I'm looking to collaborate on Genetic research and Bioinformatics projects.
-📧 How to reach me: anel.toledo@unmsm.edu.pe
+- I'm Anel 👩🏻‍🔬 Geneticist and Biotechnologist.
+- 👀 I'm interested in Genetics and Bioinformatics 
+- 💞️ I'm looking to collaborate on Genetic research and Bioinformatics projects.
+- 📧 How to reach me: anel.toledo@unmsm.edu.pe
 
 <!--
 **aneltn/aneltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
